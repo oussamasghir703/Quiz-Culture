@@ -1,0 +1,99 @@
+body {
+    background-image: url("https://waytolearnx.com/wp-content/uploads/2019/07/qcm-html-css-min.jpg");
+    font-family: sans-serif;
+    margin:0;
+    padding-bottom:0;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+   background-repeat: no-repeat;
+  }
+  
+header{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#eee;
+    padding: 0;
+    font-size: 35px;
+    margin: 0;
+   }
+nav{
+    background-color:#da1f1f ;
+    color:#862d46;
+    text-align: center;
+    padding: 5px 0;
+    transition: color 0.2s ease;
+  }
+.a{
+  text-decoration: none;
+  color: rgb(235, 238, 45);
+  
+  }
+a:hover{
+    text-decoration: none;
+    color: orange;
+  
+  }
+li{
+    display: inline-block;
+    margin-right: 20px;
+  }
+ul{
+   list-style: none;
+  
+  }
+  
+#hh1 {
+  text-align: center;
+  height: 60px;
+  font-size: 40px;
+  
+  }
+#h {
+    text-align: center;
+    height: 60px;
+    font-size: 40px;
+    text-align: center;
+    color: palevioletred;
+    background-color: azure;
+    padding:15px;
+    margin:100px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+    border-radius: 35px;
+  
+  }
+h2 {
+  text-align: center;
+  height: 40px;
+  font-size: 30px;
+  }
+  
+footer{
+    background-color: black;
+    bottom:0px;
+    height: 50px;
+    font-size: 15px;
+    padding-left: 20px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#eee; 
+    width:100%;
+    position: fixed;
+}
+.foot{
+    display: inline;
+    margin:0;
+    padding-bottom: 0;
+}
+  
+#quiz-container{
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px auto;
+    width: 500px;
+    height: auto;
+    background-color: rgb(217, 248, 248);
+  
+}

@@ -1,0 +1,90 @@
+{
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "Quelle balise est utilisée pour créer un lien hypertexte en HTML ?",
+      "options": ["<a>", "<p>", "<img>", "<div>"],
+      "answer": "<a>"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Quel attribut CSS est utilisé pour définir la couleur du texte ?",
+      "options": ["color", "background-color", "font-size", "border"],
+      "answer": "color"
+    },
+    {
+      "type": "input",
+      "question": "Comment déclare-t-on une variable en JavaScript ?",
+      "answer": "var"
+    },
+    {
+      "type": "input",
+      "question": "Quelle est la méthode utilisée pour sélectionner un élément par son ID en JavaScript ?",
+      "answer": "getElementById"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Quelle fonction JavaScript est utilisée pour afficher une boîte de dialogue avec un message ?",
+      "options": ["alert()", "console.log()", "prompt()", "confirm()"],
+      "answer": "alert()"
+    },
+    {
+      "type": "input",
+      "question": "Quelle est la propriété CSS utilisée pour définir l'arrière-plan d'un élément ?",
+      "answer": "background-color"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Quel est le composant de base dans React pour afficher quelque chose à l'écran ?",
+      "options": ["<App />", "<Component />", "<Element />", "<View />"],
+      "answer": "<Component />"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Quelle méthode est utilisée pour mettre à jour l'état d'un composant dans React ?",
+      "options": ["setState()", "updateState()", "changeState()", "modifyState()"],
+      "answer": "setState()"
+    },
+    {
+      "type": "input",
+      "question": "Redux est une gestionnaire d'état pour les applications React. Vrai ou faux ?",
+      "answer": "vrai"
+    },
+    
+    {
+      "type": "multiple_choice",
+      "question": "Quelle balise est utilisée pour définir une liste ordonnée en HTML ?",
+      "options": ["<ul>", "<li>", "<ol>", "<dl>"],
+      "answer": "<ol>"
+    },
+    {
+      "type": "input",
+      "question": "Quelle méthode est utilisée pour récupérer les données d'un formulaire dans React ?",
+      "answer": "handleSubmit"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Quelle méthode JavaScript est utilisée pour ajouter un nouvel élément HTML à la page ?",
+      "options": ["createNode()", "appendNode()", "insertNode()", "createElement()"],
+      "answer": "createElement()"
+    },
+    {
+      "type": "input",
+      "question": "React est une bibliothèque JavaScript développée par Google. Vrai ou faux ?",
+      "answer": "faux"
+    },
+    
+    {
+      "type": "input",
+      "question": "Next.js est un framework basé sur React pour le développement d'applications web. Vrai ou faux ?",
+      "answer": "vrai"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Quelle propriété CSS est utilisée pour centrer horizontalement du contenu à l'intérieur de son conteneur ?",
+      "options": ["text-align", "vertical-align", "margin", "padding"],
+      "answer": "text-align"
+    }
+    
+  ]
+}
